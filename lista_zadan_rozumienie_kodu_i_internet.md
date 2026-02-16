@@ -165,6 +165,7 @@
     print(imie.___())
     ```
     aby wynik to było `Ola`.
+    Wybierz jedną opcję: `capitalize`, `upper`, `lower`, `title`.
 
 20. Uzupełnij jedną linijkę:
     ```python
@@ -202,12 +203,13 @@
     ```
     aby dla tej wartości wypisało `zdane`.
 
-25. Uzupełnij kod:
+25. Uzupełnij kod, dodając odpowiedni operator:
     ```python
     licznik = 0
     licznik ___ 1
     print(licznik)
     ```
+    Wybierz jedną opcję: `=`, `+=`, `-`, `-=`.
     aby wynik był `1`.
 
 ---
@@ -234,7 +236,7 @@
 
 34. Sprawdź, co to jest `SyntaxError` i kiedy może się pojawić.
 
-35. Znajdź 3 zasady bezpiecznego korzystania z internetu dla ucznia.
+35. Znajdź aktualną cenę euro (EUR/PLN) i podaj źródło oraz datę odczytu.
 
 36. Sprawdź, czym jest licencja open source (w 1–2 prostych zdaniach).
 

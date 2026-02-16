@@ -1,0 +1,594 @@
+%PDF-1.4
+%
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 1712 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 792 Tm
+12 TL
+(# Lista zadan  rozumienie kodu + wyszukiwanie informacji) Tj
+T*
+() Tj
+T*
+(## Zaozenia) Tj
+T*
+(- Zadania sa krotkie i proste.) Tj
+T*
+(- Priorytet: **czytanie i rozumienie gotowego kodu**.) Tj
+T*
+(- Dopuszczalne: uzupenianie pojedynczych luk \(`___`\) albo jednej linijki.) Tj
+T*
+(- Czesc zadan wymaga **sprawdzenia informacji w internecie** i podania zroda.) Tj
+T*
+() Tj
+T*
+(---) Tj
+T*
+() Tj
+T*
+(## A. Rozumienie kodu \(bez pisania od zera\)) Tj
+T*
+() Tj
+T*
+(1. Przeczytaj kod:) Tj
+T*
+(   ```python) Tj
+T*
+(   x = 3) Tj
+T*
+(   y = 5) Tj
+T*
+(   print\(x + y\)) Tj
+T*
+(   ```) Tj
+T*
+(   Zaznacz poprawna odpowiedz: co zostanie wypisane?) Tj
+T*
+() Tj
+T*
+(2. Przeczytaj kod:) Tj
+T*
+(   ```python) Tj
+T*
+(   imie = "Ola") Tj
+T*
+(   print\("Czesc,", imie\)) Tj
+T*
+(   ```) Tj
+T*
+(   Napisz dokadnie, jaki tekst pojawi sie w konsoli.) Tj
+T*
+() Tj
+T*
+(3. W kodzie:) Tj
+T*
+(   ```python) Tj
+T*
+(   a = 10) Tj
+T*
+(   a = a + 2) Tj
+T*
+(   print\(a\)) Tj
+T*
+(   ```) Tj
+T*
+(   wyjasnij, co robi druga linijka.) Tj
+T*
+() Tj
+T*
+(4. Kod:) Tj
+T*
+(   ```python) Tj
+T*
+(   for i in range\(3\):) Tj
+T*
+(       print\(i\)) Tj
+T*
+(   ```) Tj
+T*
+(   Uzupenij: petla wykona sie `___` razy.) Tj
+T*
+() Tj
+T*
+(5. Kod:) Tj
+T*
+(   ```python) Tj
+T*
+(   for i in range\(1, 4\):) Tj
+T*
+(       print\(i\)) Tj
+T*
+(   ```) Tj
+T*
+(   Wypisz wszystkie liczby, ktore pojawia sie na ekranie.) Tj
+T*
+() Tj
+T*
+(6. Kod:) Tj
+T*
+(   ```python) Tj
+T*
+(   liczby = [2, 4, 6]) Tj
+T*
+(   print\(liczby[0]\)) Tj
+T*
+(   ```) Tj
+T*
+(   Odpowiedz: dlaczego wypisze sie pierwsza liczba z listy?) Tj
+T*
+() Tj
+T*
+(7. Kod:) Tj
+T*
+(   ```python) Tj
+T*
+(   liczby = [2, 4, 6]) Tj
+T*
+(   print\(len\(liczby\)\)) Tj
+T*
+(   ```) Tj
+ET
+endstream
+endobj
+3 0 obj
+<< /Length 1552 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 792 Tm
+12 TL
+(   Co robi funkcja `len`?) Tj
+T*
+() Tj
+T*
+(8. Kod:) Tj
+T*
+(   ```python) Tj
+T*
+(   haslo = "python") Tj
+T*
+(   if haslo == "python":) Tj
+T*
+(       print\("OK"\)) Tj
+T*
+(   else:) Tj
+T*
+(       print\("BAD"\)) Tj
+T*
+(   ```) Tj
+T*
+(   Kiedy zostanie wypisane `BAD`?) Tj
+T*
+() Tj
+T*
+(9. Kod:) Tj
+T*
+(   ```python) Tj
+T*
+(   temperatura = 19) Tj
+T*
+(   if temperatura > 20:) Tj
+T*
+(       print\("Ciepo"\)) Tj
+T*
+(   else:) Tj
+T*
+(       print\("Chodno"\)) Tj
+T*
+(   ```) Tj
+T*
+(   Zaznacz, ktory napis pojawi sie na ekranie.) Tj
+T*
+() Tj
+T*
+(10. Kod:) Tj
+T*
+(    ```python) Tj
+T*
+(    tekst = "Ala") Tj
+T*
+(    print\(tekst.lower\(\)\)) Tj
+T*
+(    ```) Tj
+T*
+(    Co zrobi metoda `lower\(\)`?) Tj
+T*
+() Tj
+T*
+(11. Kod:) Tj
+T*
+(    ```python) Tj
+T*
+(    n = 7) Tj
+T*
+(    if n % 2 == 0:) Tj
+T*
+(        print\("parzysta"\)) Tj
+T*
+(    else:) Tj
+T*
+(        print\("nieparzysta"\)) Tj
+T*
+(    ```) Tj
+T*
+(    Wyjasnij, do czego suzy operator `%`.) Tj
+T*
+() Tj
+T*
+(12. Kod:) Tj
+T*
+(    ```python) Tj
+T*
+(    suma = 0) Tj
+T*
+(    for i in range\(1, 4\):) Tj
+T*
+(        suma += i) Tj
+T*
+(    print\(suma\)) Tj
+T*
+(    ```) Tj
+T*
+(    Podaj koncowa wartosc zmiennej `suma`.) Tj
+T*
+() Tj
+T*
+(13. Kod:) Tj
+T*
+(    ```python) Tj
+T*
+(    owoce = ["jabko", "banan", "gruszka"]) Tj
+T*
+(    for owoc in owoce:) Tj
+T*
+(        print\(owoc\)) Tj
+T*
+(    ```) Tj
+T*
+(    Co oznacza nazwa `owoc` w petli?) Tj
+T*
+() Tj
+T*
+(14. Kod:) Tj
+T*
+(    ```python) Tj
+T*
+(    def przywitaj\(\):) Tj
+T*
+(        print\("Hej!"\)) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 1682 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 792 Tm
+12 TL
+(    przywitaj\(\)) Tj
+T*
+(    ```) Tj
+T*
+(    Zaznacz poprawne zdanie: kiedy funkcja sie wykona?) Tj
+T*
+() Tj
+T*
+(15. Kod:) Tj
+T*
+(    ```python) Tj
+T*
+(    def dodaj\(a, b\):) Tj
+T*
+(        return a + b) Tj
+T*
+() Tj
+T*
+(    wynik = dodaj\(2, 3\)) Tj
+T*
+(    print\(wynik\)) Tj
+T*
+(    ```) Tj
+T*
+(    Co oznacza sowo `return`?) Tj
+T*
+() Tj
+T*
+(---) Tj
+T*
+() Tj
+T*
+(## B. Uzupenianie bardzo prostych luk) Tj
+T*
+() Tj
+T*
+(16. Uzupenij brakujaca liczbe:) Tj
+T*
+(    ```python) Tj
+T*
+(    for i in range\(___\):) Tj
+T*
+(        print\("Hej"\)) Tj
+T*
+(    ```) Tj
+T*
+(    aby napis wypisa sie 5 razy.) Tj
+T*
+() Tj
+T*
+(17. Uzupenij operator porownania:) Tj
+T*
+(    ```python) Tj
+T*
+(    if 7 ___ 3:) Tj
+T*
+(        print\("tak"\)) Tj
+T*
+(    ```) Tj
+T*
+(    aby warunek by prawdziwy.) Tj
+T*
+() Tj
+T*
+(18. Uzupenij nazwe funkcji:) Tj
+T*
+(    ```python) Tj
+T*
+(    liczby = [1, 2, 3, 4]) Tj
+T*
+(    print\(___\(liczby\)\)) Tj
+T*
+(    ```) Tj
+T*
+(    aby wypisac liczbe elementow listy.) Tj
+T*
+() Tj
+T*
+(19. Uzupenij metode napisu:) Tj
+T*
+(    ```python) Tj
+T*
+(    imie = "ola") Tj
+T*
+(    print\(imie.___\(\)\)) Tj
+T*
+(    ```) Tj
+T*
+(    aby wynik to byo `Ola`.) Tj
+T*
+(    Wybierz jedna opcje: `capitalize`, `upper`, `lower`, `title`.) Tj
+T*
+() Tj
+T*
+(20. Uzupenij jedna linijke:) Tj
+T*
+(    ```python) Tj
+T*
+(    def pole_kwadratu\(a\):) Tj
+T*
+(        ___) Tj
+T*
+(    ```) Tj
+T*
+(    aby funkcja zwracaa pole kwadratu.) Tj
+T*
+() Tj
+T*
+(21. Uzupenij wartosc logiczna:) Tj
+T*
+(    ```python) Tj
+T*
+(    czy_pada = ___) Tj
+T*
+(    if czy_pada:) Tj
+T*
+(        print\("Wez parasol"\)) Tj
+T*
+(    ```) Tj
+T*
+(    tak, aby komunikat sie pojawi.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 2073 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 792 Tm
+12 TL
+() Tj
+T*
+(22. Uzupenij brakujacy argument:) Tj
+T*
+(    ```python) Tj
+T*
+(    print\("Python", ___\)) Tj
+T*
+(    ```) Tj
+T*
+(    aby wypisac `Python jest super`.) Tj
+T*
+() Tj
+T*
+(23. Uzupenij indeks:) Tj
+T*
+(    ```python) Tj
+T*
+(    kolory = ["czerwony", "zielony", "niebieski"]) Tj
+T*
+(    print\(kolory[___]\)) Tj
+T*
+(    ```) Tj
+T*
+(    aby wypisac `zielony`.) Tj
+T*
+() Tj
+T*
+(24. Uzupenij warunek:) Tj
+T*
+(    ```python) Tj
+T*
+(    punkty = 85) Tj
+T*
+(    if punkty ___ 50:) Tj
+T*
+(        print\("zdane"\)) Tj
+T*
+(    ```) Tj
+T*
+(    aby dla tej wartosci wypisao `zdane`.) Tj
+T*
+() Tj
+T*
+(25. Uzupenij kod, dodajac odpowiedni operator:) Tj
+T*
+(    ```python) Tj
+T*
+(    licznik = 0) Tj
+T*
+(    licznik ___ 1) Tj
+T*
+(    print\(licznik\)) Tj
+T*
+(    ```) Tj
+T*
+(    Wybierz jedna opcje: `=`, `+=`, `-`, `-=`.) Tj
+T*
+(    aby wynik by `1`.) Tj
+T*
+() Tj
+T*
+(---) Tj
+T*
+() Tj
+T*
+(## C. Wyszukiwanie informacji w internecie \(z podaniem zroda\)) Tj
+T*
+() Tj
+T*
+(> Przy kazdym zadaniu uczen podaje: nazwe strony, link i 12 zdania wasnego podsumowania.) Tj
+T*
+() Tj
+T*
+(26. Sprawdz, czym jest Python i kto go stworzy.) Tj
+T*
+() Tj
+T*
+(27. Znajdz, do czego suzy funkcja `print\(\)` w Pythonie.) Tj
+T*
+() Tj
+T*
+(28. Znajdz roznice miedzy `=` i `==`.) Tj
+T*
+() Tj
+T*
+(29. Wyszukaj, czym jest petla `for` i podaj prosty przykad.) Tj
+T*
+() Tj
+T*
+(30. Sprawdz, czym rozni sie `list` od `tuple` \(na bardzo podstawowym poziomie\).) Tj
+T*
+() Tj
+T*
+(31. Znajdz, co robi funkcja `input\(\)` i jak zamienic jej wynik na liczbe.) Tj
+T*
+() Tj
+T*
+(32. Wyszukaj, co robi funkcja `len\(\)` i podaj 2 przykady uzycia.) Tj
+T*
+() Tj
+T*
+(33. Znajdz, jak dziaaja `and`, `or`, `not` w warunkach.) Tj
+T*
+() Tj
+T*
+(34. Sprawdz, co to jest `SyntaxError` i kiedy moze sie pojawic.) Tj
+T*
+() Tj
+T*
+(35. Znajdz aktualna cene euro \(EUR/PLN\) i podaj zrodo oraz date odczytu.) Tj
+T*
+() Tj
+T*
+(36. Sprawdz, czym jest licencja open source \(w 12 prostych zdaniach\).) Tj
+T*
+() Tj
+T*
+(37. Znajdz, czym jest GitHub i do czego uzywa sie go w programowaniu.) Tj
+T*
+() Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 282 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 792 Tm
+12 TL
+(38. Wyszukaj, co oznacza skrot AI i podaj 2 przykady zastosowan w zyciu codziennym.) Tj
+T*
+() Tj
+T*
+(39. Sprawdz, czym jest phishing i jak go rozpoznac.) Tj
+T*
+() Tj
+T*
+(40. Znajdz roznice miedzy strona HTTP a HTTPS.) Tj
+T*
+() Tj
+T*
+(---) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 7 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+8 0 obj
+<< /Type /Page /Parent 7 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 3 0 R >>
+endobj
+9 0 obj
+<< /Type /Page /Parent 7 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+10 0 obj
+<< /Type /Page /Parent 7 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 5 0 R >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 7 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 6 0 R >>
+endobj
+12 0 obj
+<< /Type /Pages /Kids [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Count 5 >>
+endobj
+13 0 obj
+<< /Type /Catalog /Pages 12 0 R >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000001849 00000 n 
+0000003453 00000 n 
+0000005187 00000 n 
+0000007312 00000 n 
+0000007645 00000 n 
+0000007771 00000 n 
+0000007897 00000 n 
+0000008023 00000 n 
+0000008150 00000 n 
+0000008277 00000 n 
+0000008363 00000 n 
+trailer
+<< /Size 14 /Root 13 0 R >>
+startxref
+8414
+%%EOF
